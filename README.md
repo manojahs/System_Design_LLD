@@ -21,6 +21,16 @@ The software architecture impacts:
   Ease of adding new features
   Response to failure or Security back
 
+The software architecture of a system is a high level description of the system structure, its different component, and how those components
+communicate with each other to fullfill the systems requirement and constraints
+
+Technologies or programming languages are not part of the software architecture but a part of the implementation but it wll be part of implementation.
+
+Software development life cycle
+--------------------------------
+Desgn -> Development -> Testing -> Deployment
+
+Design is nothing but building software architecture
 
 
 
