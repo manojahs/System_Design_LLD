@@ -29,8 +29,9 @@ Technologies or programming languages are not part of the software architecture 
 Software development life cycle
 --------------------------------
 Desgn -> Development -> Testing -> Deployment
-
 Design is nothing but building software architecture
+
+Software Arch is the output of design phase and input to the implementation
 
 
 
