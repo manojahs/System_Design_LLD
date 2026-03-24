@@ -1,4 +1,4 @@
-# System_Design_LLD
+# System_Design
 
 ```
 System design is the process of defining the architecture, components, modules, interfaces, and data for a system to satisfy specific requirements
@@ -16,7 +16,10 @@ Low-level design (LLD) is the detailed blueprint for building specific component
 * Explicit handling of concurrency, retries, idempotency, and validation
 * Test strategy aligned to boundaries
 
-
+The software architecture impacts:
+  Performance and scale of product
+  Ease of adding new features
+  Response to failure or Security back
 
 
 
