@@ -39,7 +39,9 @@ Scalability
 Its the measurement of system ability how it handle the growing amount of work, in a easy and cost effective by
 adding resources to the system.
 
-
+1) Horizontal Scalability (scale up/down)
+2) Vertical Scalability (scale out/in)
+3) Team/Org Scalability
 
 
 
