@@ -24,7 +24,8 @@ The software architecture impacts:
 The software architecture of a system is a high level description of the system structure, its different component, and how those components
 communicate with each other to fullfill the systems requirement and constraints
 
-Technologies or programming languages are not part of the software architecture but a part of the implementation but it wll be part of implementation.
+Technologies or programming languages are not part of the software architecture but a part of the implementation but it wll be part
+of implementation.
 
 Software development life cycle
 --------------------------------
@@ -33,7 +34,10 @@ Design is nothing but building software architecture
 
 Software Arch is the output of design phase and input to the implementation
 
-
+Scalability
+----------------
+Its the measurement of system ability how it handle the growing amount of work, in a easy and cost effective by
+adding resources to the system.
 
 
 
