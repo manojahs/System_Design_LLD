@@ -67,5 +67,19 @@ Pros
      High Availability
      Fault Tolerance
 
+Cons
+   Initial code changes may be required
+   Increased complexity, coordination overhead
+
+Team/Org Scale
+----------------
+The measure of system ability to handle growing amount of work in an easy and cost effective way by adding resources to the system
+or increasing the productivity while hiring more engineers into the team
+
+
+
+
+
+
 
 ```
