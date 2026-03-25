@@ -43,9 +43,29 @@ adding resources to the system.
 2) Vertical Scalability (scale out/in)
 3) Team/Org Scalability
 
+Vertical scaling
+-------------------
+Adding Resources/Upgrading the existing resources on a single computer, to allow our system to handle higher traffic or load.
 
+Pros
+   Any application can benefit from it
+   No code changes are required
+   Migration between different machines is very easy
 
+Cons
+  The scope update is limited
+  
 
+Horizontal Scaling
+-------------------
+Adding more resources in a form of new instances running on different machines to allow our system to handle higher traffic or load.
+
+Pros
+  No limit on scalability
+  Its easy to add/remove machines
+  If designed correctly we get
+     High Availability
+     Fault Tolerance
 
 
 ```
