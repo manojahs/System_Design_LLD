@@ -82,7 +82,12 @@ Remote Procedure Call
  -> It support multiple programming lang
  -> Application written in different programming lang can talk to each other using RPC
 
+RestAPI
+----------
+Its architecture style it uses REST principles 
 
+REST (Representational State Transfer) should be used when building public, general-purpose APIs that focus on managing data resources using standardized operations,
+while RPC (Remote Procedure Call) is ideal for internal, high-performance microservice communication involving specific, action-oriented tasks
 
 
 
