@@ -89,6 +89,16 @@ Its architecture style it uses REST principles
 REST (Representational State Transfer) should be used when building public, general-purpose APIs that focus on managing data resources using standardized operations,
 while RPC (Remote Procedure Call) is ideal for internal, high-performance microservice communication involving specific, action-oriented tasks
 
+Load Balancer
+-----------------
+Balance the load among group of servers
+
+Quality Attribute
+-------------------
+1. Scalability
+2. High Availability
+3. Performance (Throughput)
+4. Maintainability
 
 
 ```
