@@ -76,7 +76,11 @@ Team/Org Scale
 The measure of system ability to handle growing amount of work in an easy and cost effective way by adding resources to the system
 or increasing the productivity while hiring more engineers into the team
 
-
+RPC
+-------
+Remote Procedure Call
+ -> It support multiple programming lang
+ -> Application written in different programming lang can talk to each other using RPC
 
 
 
