@@ -6,7 +6,8 @@ System design is the process of defining the architecture, components, modules, 
 
 LLD
 -------
-LLD is the blueprint that guides developers on how to implement specific components of a system, such as classes, methods, algorithms, and data structures.
+LLD is the blueprint that guides developers on how to implement specific components of a system, such as classes,
+methods, algorithms, and data structures.
 
 Low-level design (LLD) is the detailed blueprint for building specific components: classes/modules, function signatures, database
 schemas, state machines, algorithms, error handling, retries/timeouts, validation, and detailed API request/response models. It
