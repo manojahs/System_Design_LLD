@@ -8,7 +8,11 @@ LLD
 -------
 LLD is the blueprint that guides developers on how to implement specific components of a system, such as classes, methods, algorithms, and data structures.
 
-Low-level design (LLD) is the detailed blueprint for building specific components: classes/modules, function signatures, database schemas, state machines, algorithms, error handling, retries/timeouts, validation, and detailed API request/response models. It focuses on “how exactly we implement it” inside a service/module—down to design patterns, sequence diagrams, edge cases, and test strategy. The output is often detailed design docs, pseudo-code/specs, schema definitions, and sometimes tickets that engineers can implement directly.
+Low-level design (LLD) is the detailed blueprint for building specific components: classes/modules, function signatures, database
+schemas, state machines, algorithms, error handling, retries/timeouts, validation, and detailed API request/response models. It
+focuses on “how exactly we implement it” inside a service/module—down to design patterns, sequence diagrams, edge cases, and test
+strategy. The output is often detailed design docs, pseudo-code/specs, schema definitions, and sometimes tickets that engineers can
+implement directly.
 
 * Clear layers (API/Application/Domain/Infrastructure) and dependency direction inward
 * DI-friendly design (interfaces at boundaries)
@@ -22,8 +26,8 @@ The software architecture impacts:
   Ease of adding new features
   Response to failure or Security back
 
-The software architecture of a system is a high level description of the system structure, its different component, and how those components
-communicate with each other to fullfill the systems requirement and constraints
+The software architecture of a system is a high level description of the system structure, its different component, and how those
+components communicate with each other to full fill the systems requirement and constraints
 
 Technologies or programming languages are not part of the software architecture but a part of the implementation but it wll be part
 of implementation.
@@ -87,7 +91,8 @@ RestAPI
 ----------
 Its architecture style it uses REST principles 
 
-REST (Representational State Transfer) should be used when building public, general-purpose APIs that focus on managing data resources using standardized operations,
+REST (Representational State Transfer) should be used when building public, general-purpose APIs that focus on managing data resources
+ using standardized operations,
 while RPC (Remote Procedure Call) is ideal for internal, high-performance microservice communication involving specific, action-oriented tasks
 
 Load Balancer
