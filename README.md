@@ -1,7 +1,8 @@
 # System_Design
 
 ```
-System design is the process of defining the architecture, components, modules, interfaces, and data for a system to satisfy specific requirements
+System design is the process of defining the architecture, components, modules, interfaces, and data for a system to
+ satisfy specific requirements
 
 LLD
 -------
